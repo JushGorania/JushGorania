@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JushGorania
+- 👀 I’m interested in Business, Engineering and Computer Science.
+- 🌱 I’m currently learning LUA & Python
+- 💞️ I’m looking to collaborate on game projects.
+- 📫 How to reach me, Discord - Jush#0020. Email - jushgorania18@gmail.com.
